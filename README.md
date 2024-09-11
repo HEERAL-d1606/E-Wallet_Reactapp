@@ -3,7 +3,9 @@ The E-Wallet Application is a React-based app that allows users to manage their 
 
 # Features
 Wallet Management: View current balance, add funds, and make purchases.
+
 Movie Ticket Purchase: Buy movie tickets with wallet balance.
+
 Grocery Purchase: Purchase grocery items using wallet funds.
 Wallet Recharge: Add money to the wallet for future transactions.
 Search Functionality: A search bar to look for items or features.
