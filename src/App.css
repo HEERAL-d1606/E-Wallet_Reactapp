@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-nav {
+  margin-right: 0; /* Align nav items to the left */
+}
+
+.form-control {
+  padding-right: 2.5rem; /* Adjust padding for the search icon */
+}
+
+.fas.fa-search {
+  position: absolute;
+  right: 0.75rem; /* Adjust position of search icon */
+}
+
+
