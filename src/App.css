@@ -38,7 +38,8 @@
 }
 
 .navbar-nav {
-  margin-right: 0; /* Align nav items to the left */
+  margin-right: 0;
+   /* Align nav items to the left */
 }
 
 .form-control {

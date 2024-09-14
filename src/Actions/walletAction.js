@@ -40,3 +40,4 @@ export function getmydata() {
         dispatch(showData(data))
         }
 }
+

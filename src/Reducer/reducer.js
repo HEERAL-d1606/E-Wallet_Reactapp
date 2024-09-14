@@ -2,7 +2,7 @@ import { BUY_GROCERY, BUY_MOVIE, RECHARGE, SHOW_DATA, getmydata, showData } from
 
 const { combineReducers } = require("redux");
 
-const INITAL_STATE = {wallet:5000, user:[]}
+const INITAL_STATE = {wallet:6000, user:[]}
 
 export const dataReducer = (state=INITAL_STATE, action)=>{
 	switch(action.type) {

@@ -14,8 +14,7 @@ function App() {
               <Container/>
           </Provider>
       </div>
-    )
-  
+    )  
 }
 
 export default App;
